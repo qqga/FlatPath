@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FlatPath.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\temp\\fldr 123\" -f"
+    }
+  }
+}
